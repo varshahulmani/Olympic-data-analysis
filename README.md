@@ -8,6 +8,7 @@ Interactive Dashboard: Filter data by year, country, sport, or medal type.
 Visual Insights: Graphical representations of trends in participation, performance, and medal counts.
 Data Exploration: Users can identify patterns in athlete performance and country achievements.
 User-Friendly Interface: Easy-to-use design for both technical and non-technical audiences.
+
 Tools and Technologies
 Python
 Streamlit
@@ -15,6 +16,7 @@ Pandas
 Plotly
 Matplotlib
 Seaborn
+
 How It Works
 Data Preprocessing:
 The dataset was cleaned and prepared using Pandas to handle missing values, standardize formats, and ensure accuracy.
